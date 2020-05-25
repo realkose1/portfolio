@@ -1,0 +1,9 @@
+{
+  "title": "HOME",
+  "siteUrl": "https://delog-w3layouts.netlify.com/",
+  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "home": {
+    "title": "Hi! I'm Sehyun",
+    "description": "I design a user-centered interface and find new solutions against problems on all digital products. Always passionate and curious about everthing new!"
+  }
+}
